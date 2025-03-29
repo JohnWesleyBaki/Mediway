@@ -8,7 +8,7 @@ function App() {
 
       <div className="flex space-x-4">
         <a
-          href="https://docsend.com/view/7qwy3asrevqsrnbc"
+          href="https://docsend.netlify.app/view/00b3549b-08d0-4fbe-bd99-5f78cbc0d971"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition"
